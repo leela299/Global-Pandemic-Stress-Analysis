@@ -12,6 +12,43 @@ COVID-19 brought significant shifts to the workplace, with widespread adoption o
 ## Contributors
 We'd like to thank the following individuals for their contributions:
 
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/[ID]">
+            <img src="https://avatars.githubusercontent.com/[ID]" width="100;" alt="[NAME]"/>
+            <br />
+            <sub><b>[NAME]</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/[ID]">
+            <img src="https://avatars.githubusercontent.com/[ID]" width="100;" alt="[NAME]"/>
+            <br />
+            <sub><b>[NAME]</b></sub>
+        </a>
+    </td>
+      <td align="center">
+        <a href="https://github.com/ictorv">
+            <img src="https://avatars.githubusercontent.com/u/106619187?v=4" width="100;" alt="ictorv"/>
+            <br />
+            <sub><b>Victor</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/[ID]">
+            <img src="https://avatars.githubusercontent.com/[ID]" width="100;" alt="[NAME]"/>
+            <br />
+            <sub><b>[NAME]</b></sub>
+        </a>
+    </td>
+    </tr>
+</table>
+
+
+
+
+
 - [Your Name](https://github.com/yourusername) 
 - [Contributor 1](https://github.com/contributor1) 
 - [S Victor Kumar](https://github.com/ictorv) 
