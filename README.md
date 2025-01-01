@@ -44,11 +44,3 @@ We'd like to thank the following individuals for their contributions:
     </td>
     </tr>
 </table>
-
-
-
-
-
-- [Your Name](https://github.com/yourusername) 
-- [Contributor 1](https://github.com/contributor1) 
-- [S Victor Kumar](https://github.com/ictorv) 
