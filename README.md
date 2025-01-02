@@ -44,3 +44,16 @@ We'd like to thank the following individuals for their contributions:
     </td>
     </tr>
 </table>
+
+### Mentor
+<table>
+    <tr>
+    <td align="center">
+        <a href="https://www.linkedin.com/in/sai-vishal-varma-nadimpalli/">
+            <img src="https://media.licdn.com/dms/image/v2/C5103AQFpd869wSrNvw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1566318630295?e=1741219200&v=beta&t=uyHsGf-pSukg44SMdLBOIKd_cGC7iOHuwSBx9cYH-Ek" width="100;" alt="[NAME]"/>
+            <br />
+            <sub><b>Mr. Sai Vishal Varma Nadimpalli</b></sub>
+        </a>
+    </td>
+    </tr>
+</table>
