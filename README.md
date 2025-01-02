@@ -15,7 +15,7 @@ We'd like to thank the following individuals for their contributions:
 <table>
 <tr>
     <td align="center">
-        <a href="https://github.com/manishmahato21/[ID]">
+        <a href="https://github.com/manishmahato21">
             <img src="https://avatars.githubusercontent.com/manishmahato21" width="100;" alt="[manish]"/>
             <br />
             <sub><b>Manish Mahato</b></sub>
