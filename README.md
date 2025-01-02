@@ -42,7 +42,74 @@ We'd like to thank the following individuals for their contributions:
             <sub><b>[NAME]</b></sub>
         </a>
     </td>
-    </tr>
+    <td align="center">
+        <a href="https://github.com/[ID]">
+            <img src="https://avatars.githubusercontent.com/[ID]" width="100;" alt="[NAME]"/>
+            <br />
+            <sub><b>[NAME]</b></sub>
+        </a>
+    </td>
+        <td align="center">
+        <a href="https://github.com/[ID]">
+            <img src="https://avatars.githubusercontent.com/[ID]" width="100;" alt="[NAME]"/>
+            <br />
+            <sub><b>[NAME]</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/[ID]">
+            <img src="https://avatars.githubusercontent.com/[ID]" width="100;" alt="[NAME]"/>
+            <br />
+            <sub><b>[NAME]</b></sub>
+        </a>
+    </td>
+
+</tr>
+<tr>
+    <td align="center">
+        <a href="https://github.com/[ID]">
+            <img src="https://avatars.githubusercontent.com/[ID]" width="100;" alt="[NAME]"/>
+            <br />
+            <sub><b>[NAME]</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/[ID]">
+            <img src="https://avatars.githubusercontent.com/[ID]" width="100;" alt="[NAME]"/>
+            <br />
+            <sub><b>[NAME]</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/[ID]">
+            <img src="https://avatars.githubusercontent.com/[ID]" width="100;" alt="[NAME]"/>
+            <br />
+            <sub><b>[NAME]</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/[ID]">
+            <img src="https://avatars.githubusercontent.com/[ID]" width="100;" alt="[NAME]"/>
+            <br />
+            <sub><b>[NAME]</b></sub>
+        </a>
+    </td>
+        <td align="center">
+        <a href="https://github.com/[ID]">
+            <img src="https://avatars.githubusercontent.com/[ID]" width="100;" alt="[NAME]"/>
+            <br />
+            <sub><b>[NAME]</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/[ID]">
+            <img src="https://avatars.githubusercontent.com/[ID]" width="100;" alt="[NAME]"/>
+            <br />
+            <sub><b>[NAME]</b></sub>
+        </a>
+    </td>
+
+</tr>
 </table>
 
 ### Mentor
