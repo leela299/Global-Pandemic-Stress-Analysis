@@ -30,7 +30,7 @@ We'd like to thank the following individuals for their contributions:
     </td>
       <td align="center">
         <a href="https://github.com/ictorv">
-            <img src="https://avatars.githubusercontent.com/u/106619187?v=4" width="100;" alt="ictorv"/>
+            <img src="https://media.licdn.com/dms/image/v2/D5603AQHJA1cIc-eBMw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1721647811720?e=1741219200&v=beta&t=AAZIGKrg_6PksLR5jaAcAJFq6PwKB-9LIv19gdkbh5I" width="100;" alt="ictorv"/>
             <br />
             <sub><b>Victor</b></sub>
         </a>
