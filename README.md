@@ -51,10 +51,10 @@ We'd like to thank the following individuals for their contributions:
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/leelarani">
-            <img src="https://avatars.githubusercontent.com/[ID]" width="100;" alt="Leelrani"/>
+        <a href="https://github.com/leela299">
+            <img src="https://avatars.githubusercontent.com/leela299" width="100;" alt="Leelrani"/>
             <br />
-            <sub><b>LeelaRani</b></sub>
+            <sub><b>LeelaRani Thotakura</b></sub>
         </a>
     </td>
 
