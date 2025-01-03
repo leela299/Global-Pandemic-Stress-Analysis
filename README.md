@@ -15,10 +15,17 @@ We'd like to thank the following individuals for their contributions:
 <table>
 <tr>
     <td align="center">
-        <a href="https://github.com/Veenashree-1345">
-            <img src="https://wallpaperaccess.com/full/3969209.jpg" width="100;" alt="[Veenashree]"/>
+        <a href="https://github.com/manishmahato21">
+            <img src="https://avatars.githubusercontent.com/manishmahato21" width="100;" alt="[manish]"/>
             <br />
-            <sub><b>Veena Shree</b></sub>
+            <sub><b>Manish Mahato</b></sub>
+        </a>
+    </td>
+ <td align="center">
+        <a href="https://github.com/[ID]">
+            <img src="https://avatars.githubusercontent.com/[ID]" width="100;" alt="[NAME]"/>
+            <br />
+            <sub><b>[NAME]</b></sub>
         </a>
     </td>
 
@@ -32,10 +39,10 @@ We'd like to thank the following individuals for their contributions:
     </td>
     
     <td align="center">
-        <a href="https://github.com/[ID]">
-            <img src="https://avatars.githubusercontent.com/[ID]" width="100;" alt="[NAME]"/>
+        <a href="https://github.com/Veenashree-1345">
+            <img src="https://avatars.githubusercontent.com/[ID]" width="100;" alt="Veena"/>
             <br />
-            <sub><b>[NAME]</b></sub>
+            <sub><b>Veena Shree</b></sub>
         </a>
     </td>
         <td align="center">
