@@ -28,7 +28,6 @@ We'd like to thank the following individuals for their contributions:
             <sub><b>[NAME]</b></sub>
         </a>
     </td>
-
     </td>
       <td align="center">
         <a href="https://github.com/ictorv">
@@ -37,7 +36,6 @@ We'd like to thank the following individuals for their contributions:
             <sub><b>Victor</b></sub>
         </a>
     </td>
-    
     <td align="center">
         <a href="https://github.com/Veenashree-1345">
             <img src="https://avatars.githubusercontent.com/[ID]" width="100;" alt="Veena"/>
